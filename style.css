@@ -1,0 +1,144 @@
+body{
+    font-family: 'Frank Ruhl Libre', serif;
+    font-family: 'Red Hat Display', sans-serif;
+    margin: 0%;
+}
+
+.first-section{
+    background-image: url(Photos/Frame\ edited.jpg);
+    background-size: 1920px 910px;
+    
+    background-repeat: no-repeat;
+    
+}
+
+.second-section{
+    background-image: url(Photos/Frame\ 59.jpg);
+    background-size: 1650px 760px;
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+}
+
+
+.half-width h1{
+    font-size: 60px;
+    padding-left: 90px;
+    padding-top: 150px;
+}
+.half-width h2{
+    font-size: 40px;
+    padding-left: 90px;
+    padding-top: 150px;
+
+}
+
+.half-width p{
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+
+.first-section span{
+    color: tomato;
+    font-size: 70px;
+}
+
+section{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    float: inline-end;
+    width: 100%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    font-weight:700;
+    border-radius: 25px;
+    color: black;
+}
+
+.recipe h2{
+    text-align: center;
+}
+ .recipe p{
+     text-align: center;
+     padding-left: 100px;
+     padding-right: 100px;
+     padding-bottom: 50px;
+     
+ }
+
+ .forth-section{
+     display: flex;
+     padding-bottom: 100px;
+     
+    
+ }
+
+ .forth-section div{
+     width: 34%;
+     
+     
+     
+ }
+
+ .forth-section div img{
+     height: 400px;
+     width: 400px;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-top: 40px;
+     border-radius: 50px 50px 50px 50px;
+     
+ }
+
+ .forth-section h4,p{
+
+    padding-left: 45px;
+    padding-right: 50px;
+ }
+
+ .forth-section div{
+    margin: 10px;
+      box-shadow: 10px 10px 40px grey;
+      border-radius: 15px;
+ }
+
+ .fifth-section{
+    display: flex;
+    
+    margin-left: 400px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 50px gray;
+ }
+
+ .fifth-section div{
+     width: 34%;
+     
+ }
+ 
+ .fifth-section h1{
+     padding-left: 45px;
+ }
+
+ .sixth-section{
+     text-align: center;
+     color:white;
+     background-color: black;
+     padding: 90px;
+ }
+
+ .sixth-section span{
+
+    color: yellow;
+     
+ }
